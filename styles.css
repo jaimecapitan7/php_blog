@@ -1,0 +1,20 @@
+
+input[name="title"] {
+    text-align: center;
+    height: 100px;
+    font-size: 70px;
+}
+
+textarea {
+    height: 400px;
+    font-size: 18px;
+}
+
+.card {
+    height: 10rem;
+}
+.card-body {
+    width: 20rem;
+}
+
+
